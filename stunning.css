@@ -3,7 +3,11 @@ body {
 }
 h1 {
   color: SteelBlue;
+  font-family: verdana;
+  font-size: 220;
 }
 p {
   color: SteelBlue;
+  font-family: verdana;
+  font-size: 160;
 }

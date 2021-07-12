@@ -4,11 +4,11 @@ body {
 h1 {
   color: SteelBlue;
   font-family: verdana;
-  font-size: 80;
+  font-size: 40;
 }
 p {
   color: SteelBlue;
   font-family: verdana;
-  font-size: 60;
+  font-size: 20;
   border: 20px solid powderblue;
 }
